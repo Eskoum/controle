@@ -38,7 +38,7 @@ La table "Catégorie" enregistre les différentes catégories disponibles pour c
 
 
 
-![image](https://github.com/Eskoum/controle/assets/147450023/bb18c3e9-f137-4f5f-afb5-facd5f95b602)
+![image](https://github.com/Eskoum/controle/assets/147450023/bb128797-9017-4171-9dc5-9d2c8d392d03)
 
 
 
